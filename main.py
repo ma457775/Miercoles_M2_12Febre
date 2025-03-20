@@ -104,7 +104,7 @@ async def facts(ctx):
 
 @bot.command()
 async def github(ctx):
-    await ctx.send(f"a")
+    await ctx.send(f"https://github.com/ma457775/Miercoles_M2_12Febre.git")
 
 @bot.command()
 async def version(ctx):
